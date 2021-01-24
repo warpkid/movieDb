@@ -1,0 +1,1 @@
+{"version":3,"file":"Movie.js","sourceRoot":"","sources":["../../../src/db/models/Movie.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qCAEiB;AAGjB,IAAa,KAAK,GAAlB,MAAa,KAAM,SAAQ,oBAAU;CAYpC,CAAA;AAVG;IADC,gCAAsB,EAAE;;iCACd;AAGX;IADC,gBAAM,EAAE;;oCACK;AAGd;IADC,gBAAM,EAAE;;2CACY;AAGrB;IADC,gBAAM,EAAE;;uCACQ;AAXR,KAAK;IADjB,gBAAM,CAAC,QAAQ,CAAC;GACJ,KAAK,CAYjB;AAZY,sBAAK"}
